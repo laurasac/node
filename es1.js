@@ -16,5 +16,5 @@ app.get("/saluta/:nome", (req, res) => {
 });
 
 app.listen(3000, () => {
-    console.log("ciao")
+    console.log(" ")
 });
